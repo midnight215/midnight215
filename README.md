@@ -15,6 +15,7 @@ I build and automate infrastructure: cloud provisioning with Terraform, configur
 
 | Project | Description |
 |---|---|
+| [k8s-microservices-platform](https://github.com/midnight215/k8s-microservices-platform) | 11-service app on Kubernetes (kind): own Helm chart, ingress-nginx, Prometheus/Grafana/Loki, GitHub Actions with e2e deploy to an ephemeral cluster |
 | [devops-infra-platform](https://github.com/midnight215/devops-infra-platform) | Terraform + Ansible platform on Yandex Cloud: 3-node Consul cluster, Prometheus/VictoriaMetrics/Grafana, EFK logging, SonarQube, GitLab CI |
 | [linux-pki-vpn-monitoring](https://github.com/midnight215/linux-pki-vpn-monitoring) | Own CA, OpenVPN server, Prometheus alerting and pull-based backups — shipped as deb packages, with runbooks and DR plan |
 | [devops-labs](https://github.com/midnight215/devops-labs) | Focused labs: monitoring with Consul SD, Ansible server hardening, private registry with TLS, signed images (DCT) |
