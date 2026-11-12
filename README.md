@@ -4,12 +4,12 @@ I build and automate infrastructure: cloud provisioning with Terraform, configur
 
 ### 🛠 Stack
 
-**Cloud & IaC:** Yandex Cloud · Terraform · Ansible
-**Containers:** Docker · Docker Compose · Kubernetes · Helm
-**CI/CD:** GitLab CI · Jenkins · SonarQube
-**Observability:** Prometheus · VictoriaMetrics · Grafana · Alertmanager · EFK · Loki
-**Networking & Security:** Consul · Nginx · OpenVPN · PKI (Easy-RSA) · iptables
-**OS & Scripting:** Linux (Ubuntu/Debian) · Bash · Python · deb packaging
+- **Cloud & IaC:** Yandex Cloud · Terraform · Ansible
+- **Containers:** Docker · Docker Compose · Kubernetes · Helm
+- **CI/CD:** GitLab CI · Jenkins · SonarQube
+- **Observability:** Prometheus · VictoriaMetrics · Grafana · Alertmanager · EFK · Loki
+- **Networking & Security:** Consul · Nginx · OpenVPN · PKI (Easy-RSA) · iptables
+- **OS & Scripting:** Linux (Ubuntu/Debian) · Bash · Python · deb packaging
 
 ### 📂 Projects
 
